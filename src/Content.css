@@ -1,0 +1,11 @@
+.content {
+  color: black;
+  padding: 10px;
+  display: flex;
+  border-top: 2px solid lightgrey;
+}
+
+.id {
+  font-size: larger;
+  font-weight: 600;
+}

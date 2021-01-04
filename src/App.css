@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+.app_content {
+  background-color: lightgray;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.app_value {
+  overflow: scroll;
+  height: 80vh;
+}
+.butn {
+  margin-left: 20px;
+}

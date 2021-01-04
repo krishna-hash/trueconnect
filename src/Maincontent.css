@@ -1,0 +1,17 @@
+.main {
+  padding: 10px;
+  cursor: pointer;
+  background: lightskyblue;
+  height: 90vh;
+}
+.main_content {
+  padding: 20px;
+  background-color: lightblue;
+  height: 50vh;
+  margin-top: 100px;
+}
+p {
+  display: flex;
+  padding: 20px;
+  font-weight: 400;
+}
